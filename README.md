@@ -8,6 +8,8 @@ The following is a picture!
 
 ![This is alt text!](./images/banana-dance.gif)
 
+[This is a link.](https://omgbeckilee.com)
+
 ## Header Level 2
 
 1. The first list item
@@ -20,4 +22,3 @@ You can do unordered lists, too:
 
 - Some item
 - Some other item
-- Banana
