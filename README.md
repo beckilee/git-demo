@@ -23,3 +23,5 @@ You can do unordered lists, too:
 - Some item
 - Some other item
 - Banana
+- Dog
+- Other thing
