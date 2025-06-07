@@ -8,7 +8,7 @@ The following is a picture!
 
 ![This is alt text!](./images/banana-dance.gif)
 
-[This is a link.](https://www.linkedin.com/in/victoria-mcbride-885b96163/)
+[This is the best link.](https://www.linkedin.com/in/victoria-mcbride-885b96163/)
 
 ## Header Level 2
 
